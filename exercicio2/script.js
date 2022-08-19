@@ -12,4 +12,15 @@ const filme = {
 		]
 };
 
-// respostas aqui ⬇️
+
+Console.log(filme.elenco[0])
+Console.log(filme.elenco[3])
+Console.log('transmissões hoje',filme.transmissoesHoje)
+console.log (filme.transmissoesHoje[1])
+// 
+// 
+// 
+// 
+// 
+// 
+// 
